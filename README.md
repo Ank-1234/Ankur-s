@@ -238,7 +238,7 @@ int main()
 
     return 0;
 }
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> Q8
 using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
@@ -298,4 +298,4 @@ string ltrim(const string &str) {
 
         find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
         find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
-Q8.
+
